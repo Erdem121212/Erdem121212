@@ -1,4 +1,12 @@
-## Hi there 👋
+## da silly developer(?) and linux user
+
+- You can follow me on tiktok , which i am pretty active there (liar liar pants on fire)
+- you can reach me from my tiktok DMs or via nothing
+- im currently learning nothing but planning to learn this summer
+- pronouns : he/him
+- i am scared of blue screens and kernel panics or errors directly aaaa
+anyways bye
+
 
 <!--
 **Erdem121212/Erdem121212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
