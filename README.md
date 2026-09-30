@@ -1,10 +1,10 @@
-## da silly developer(?) and linux user
+## PCB designer , loves to make open-sourced projects.
 
-- You can follow me on tiktok , which i am pretty active there (liar liar pants on fire)
-- you can reach me from my tiktok DMs or via nothing
-- im currently learning nothing but planning to learn this summer
+- Follow me on Instagram!
+- You can DM me on Instagram. I will answer if i see it.
+- I love my Raspberry Pi 5 !! I will surely make a open-sourced project for it 👀
 - pronouns : he/him
-- i am scared of blue screens and kernel panics or errors directly aaaa
+- scared from bsod and kernel panics (boot screens too) i dont know if its a phobia or smth ⏰
 anyways bye
 
 
